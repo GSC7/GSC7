@@ -1,0 +1,14 @@
+# .github/workflows/update-readme.yml
+name: Atualizar README diariamente
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # todos os dias à meia-noite UTC
+  workflow_dispatch:     # também pode rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions-cool/github-profile-readme-action@v2
