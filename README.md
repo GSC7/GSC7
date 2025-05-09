@@ -11,7 +11,7 @@
 
    -->
 
-![Engenheiro de Dados](https://img.freepik.com/fotos-gratis/conceito-de-colagem-de-html-e-css-com-pessoa_23-2150061993.jpg?ga=GA1.1.197353176.1746753082&semt=ais_hybrid&w=740)
+![Engenheiro de Dados](https://img.freepik.com/fotos-gratis/conceito-de-colagem-de-html-e-css-com-pessoa_23-2150061993.jpg)
 <!--
 **GSC7/GSC7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
