@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gerson Correia
+# Gerson S. Correia
 
 Sou **Engenheiro de Dados** com sólida formação em **Análise e Desenvolvimento de Sistemas** e MBA em **Gestão de TI e Negócios Digitais** pela Faculdade Impacta. Tenho experiência no desenvolvimento de pipelines, modelagem de dados e visualização de informações para apoio à tomada de decisão.
 
