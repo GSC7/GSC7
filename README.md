@@ -20,7 +20,7 @@ Atualmente, estou focado em soluções de dados utilizando tecnologias modernas 
 
 - 📫 **Contato**:  
   - Email: [gerson.obr@gmail.com](mailto:gerson.obr@gmail.com)  
-  - LinkedIn: [linkedin.com/in/gersoncorreia](https://linkedin.com/in/gersoncorreia) *(se tiver)*
+  - LinkedIn: [linkedin.com/in/gersoncorreia](https://linkedin.com/in/gersoncorreia) 
 
 ---
 
